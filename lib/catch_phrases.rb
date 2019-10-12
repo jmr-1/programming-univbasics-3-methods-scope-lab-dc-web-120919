@@ -1,5 +1,4 @@
 def mario
-  
   phrase = "It's-a me, Mario!"
   puts phrase
 end
@@ -13,3 +12,8 @@ def link
   zelda = "It's Dangerous To Go Alone! Take This."
   puts zelda 
 end 
+
+def any_phrase(phrase)
+  
+  puts phrase 
+end
